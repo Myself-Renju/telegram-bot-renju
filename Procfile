@@ -1,1 +1,1 @@
-woker: python app.py
+worker: python app.py
